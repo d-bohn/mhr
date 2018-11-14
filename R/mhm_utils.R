@@ -1,10 +1,10 @@
-mhm_aliases <- function(x) {
-
-  matchH <- agrep(mod,modifiers,
-                  ignore.case = FALSE,
-                  value = TRUE, max.distance = 0.001)
-
-}
+# mhm_aliases <- function(x) {
+#
+#   matchH <- agrep(mod,modifiers,
+#                   ignore.case = FALSE,
+#                   value = TRUE, max.distance = 0.001)
+#
+# }
 
 mhm_get_modifiers <- function() {
   modifiers <- list(
